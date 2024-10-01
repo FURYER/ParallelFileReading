@@ -1,0 +1,14 @@
+C:\Users\furye\OneDrive\Рабочий стол\Homework\ParallelFileReading\obj\Debug\net8.0\ParallelFileReading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furye\OneDrive\Рабочий стол\Homework\ParallelFileReading\obj\Debug\net8.0\ParallelFileReading.AssemblyInfoInputs.cache
+C:\Users\furye\OneDrive\Рабочий стол\Homework\ParallelFileReading\obj\Debug\net8.0\ParallelFileReading.AssemblyInfo.cs
+C:\Users\furye\OneDrive\Рабочий стол\Homework\ParallelFileReading\obj\Debug\net8.0\ParallelFileReading.csproj.CoreCompileInputs.cache
+C:\Users\furye\OneDrive\Рабочий стол\Homework\ParallelFileReading\bin\Debug\net8.0\ParallelFileReading.exe
+C:\Users\furye\OneDrive\Рабочий стол\Homework\ParallelFileReading\bin\Debug\net8.0\ParallelFileReading.deps.json
+C:\Users\furye\OneDrive\Рабочий стол\Homework\ParallelFileReading\bin\Debug\net8.0\ParallelFileReading.runtimeconfig.json
+C:\Users\furye\OneDrive\Рабочий стол\Homework\ParallelFileReading\bin\Debug\net8.0\ParallelFileReading.dll
+C:\Users\furye\OneDrive\Рабочий стол\Homework\ParallelFileReading\bin\Debug\net8.0\ParallelFileReading.pdb
+C:\Users\furye\OneDrive\Рабочий стол\Homework\ParallelFileReading\obj\Debug\net8.0\ParallelFileReading.dll
+C:\Users\furye\OneDrive\Рабочий стол\Homework\ParallelFileReading\obj\Debug\net8.0\refint\ParallelFileReading.dll
+C:\Users\furye\OneDrive\Рабочий стол\Homework\ParallelFileReading\obj\Debug\net8.0\ParallelFileReading.pdb
+C:\Users\furye\OneDrive\Рабочий стол\Homework\ParallelFileReading\obj\Debug\net8.0\ParallelFileReading.genruntimeconfig.cache
+C:\Users\furye\OneDrive\Рабочий стол\Homework\ParallelFileReading\obj\Debug\net8.0\ref\ParallelFileReading.dll
